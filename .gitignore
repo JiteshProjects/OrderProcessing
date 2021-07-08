@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OrderProcessing/v16/Server/sqlite3
+/.vs/OrderProcessing/v16/.suo
+/.vs/slnx.sqlite
+/OrderProcessing/bin/Debug/netcoreapp3.1
+/OrderProcessing/obj/Debug/netcoreapp3.1
+/OrderProcessing/obj
+/OrderProcessing.BL/bin/Debug/netcoreapp3.1
+/OrderProcessing.BL/obj
+/OrderProcessing.Client/bin/Debug/netcoreapp3.1
+/OrderProcessing.Client/obj
+/OrderProcessing.Test/bin/Debug/netcoreapp3.1
+/OrderProcessing.Test/obj
